@@ -154,4 +154,4 @@ SPECTACULAR_SETTINGS = {
 }
 
 # Neo4j configuration
-NEOMODEL_NEO4J_BOLT_URL = 'bolt://neo4j:123admin@localhost:7687'
+NEOMODEL_NEO4J_BOLT_URL = 'bolt://neo4j:admin123@localhost:7687'
